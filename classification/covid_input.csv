@@ -1,0 +1,2 @@
+Name,Cough_symptoms,Fever,Sore_throat,Shortness_of_breath,Headache,Age_60_above,Sex,Known_contact,Output
+Ram,True,False,False,False,False,Yes,male,Abroad,Negative
